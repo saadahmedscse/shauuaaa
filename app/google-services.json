@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41625379798",
+    "firebase_url": "https://coronavirus-news-34aa3.firebaseio.com",
+    "project_id": "coronavirus-news-34aa3",
+    "storage_bucket": "coronavirus-news-34aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41625379798:android:04b6e00bb02d24cbf3fa77",
+        "android_client_info": {
+          "package_name": "com.caffeine.coronavirusnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41625379798-ridkbip3shefvq33r0h82bsn4ttbvqgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VdZwbvl27lNp16IxkbqsiJy_Qws4YK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41625379798-ridkbip3shefvq33r0h82bsn4ttbvqgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
